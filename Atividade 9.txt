@@ -1,0 +1,19 @@
+Sistema para gestão de estoque (CONEST)
+1) Implementar o bootstrap
+2) Personalizar o menu, conforme template abaixo:
+   Arquivo         Exibir                           Ajuda
+    Clientes        Recarregar Ctrl+R                Sobre
+    Fornecedores    Ferramentas Ctrl+Shift+I
+    Produtos        Aplicar zoom Ctrl++
+    Sair Alt-F4     Reduzir Ctrl+-
+                    Restaurar o zoom padrão Ctrl+O
+
+3) Criar um rodapé com data na tela principal
+4) Criar 3 novas janelas (clientes,fornecedores e produtos)
+5) Fazer o link do menu com estas janelas
+6) Criar 3 botões na tela principal para acessar estas janelas (sem BUG - impedir a abertura de várias janelas enquanto não fechar) usar ícones para este botões ou imagnes clicáveis de tamanho 128x128px
+7) Adicionar um ícone da licença MIT na janela sobre e ajustar tudo (bootstrap ou style.css) "Não deixar rolagem"
+               
+
+
+
